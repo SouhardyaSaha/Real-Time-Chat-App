@@ -109,3 +109,6 @@ dist
 # .env file for local machine
 config/dev.env
 playground/
+
+swipe-chat-platform/
+swipe-chat-platform.zip/
